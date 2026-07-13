@@ -1,69 +1,120 @@
-## Hi there 👋
-# Hi, I'm Karthick Raja 👋
+<!-- ===== ANIMATED HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Karthick%20Raja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=58" width="100%"/>
+</p>
 
-**React Native & MERN Stack Developer** based in Madurai, Tamil Nadu, India.
+<!-- ===== TYPING ANIMATION ===== -->
+<p align="center">
+  <a href="https://github.com/karthick2004-git">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=React+Native+Developer;MERN+Stack+Developer;Building+Cross-Platform+Apps;Turning+Ideas+into+Clean+Code" alt="Typing SVG" />
+  </a>
+</p>
 
-I build cross-platform mobile apps and full-stack web applications with a focus on clean code, REST API integration, and responsive UI.
+<!-- ===== SOCIAL BADGES ===== -->
+<p align="center">
+  <a href="mailto:karthickhari851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/karthick2004-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=karthick2004-git&style=for-the-badge&color=667EEA&label=PROFILE+VIEWS"/>
+</p>
 
-- 🔭 Currently working as a **React Native Developer** at Laabam One Business Solutions
-- 🌱 Currently learning **TypeScript** and **Next.js**
-- 💬 Ask me about **React Native, React.js, Node.js, and REST APIs**
-- 📫 Reach me: **karthickhari851@gmail.com**
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const karthick = {
+  location: "Madurai, Tamil Nadu, India",
+  role: "React Native Developer @ Laabam One Business Solutions",
+  code: ["JavaScript", "TypeScript"],
+  stack: {
+    mobile: ["React Native"],
+    frontend: ["React.js", "HTML5", "CSS3", "Bootstrap"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "Postman", "VS Code"]
+  },
+  currentlyLearning: ["Next.js", "TypeScript"],
+  funFact: "I turn requirements into working apps"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,bootstrap,git,github,postman,vscode&theme=dark" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-**🚗 Rent Ride — Car Rental System**
-Full-stack car rental app with listings, booking workflow, and an admin panel. Built with React + TypeScript (frontend) and Node.js/Express (backend).
-[Frontend](https://github.com/karthick2004-git/rent-ride) · [Backend](https://github.com/karthick2004-git/backend-rent-ride)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🛒 E-Commerce Web App**
-Responsive online store with product listings, cart management, and real-time price calculation.
-[Frontend](https://github.com/karthick2004-git/mini-store) · [Backend](https://github.com/karthick2004-git/ecommerceweb.backend)
+### 🚗 Rent Ride — Car Rental
+Full-stack car rental app with listings, booking workflow & admin panel.
+
+**Tech:** React · TypeScript · Node.js · Express
+
+[Frontend »](https://github.com/karthick2004-git/rent-ride) · [Backend »](https://github.com/karthick2004-git/backend-rent-ride)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Web App
+Responsive online store with cart management & real-time pricing.
+
+**Tech:** JavaScript · Node.js · Bootstrap
+
+[Frontend »](https://github.com/karthick2004-git/mini-store) · [Backend »](https://github.com/karthick2004-git/ecommerceweb.backend)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthick2004-git&show_icons=true&theme=default)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthick2004-git&show_icons=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=764BA2&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthick2004-git&hide_border=true&background=1A1B27&stroke=667EEA&ring=667EEA&fire=764BA2&currStreakLabel=667EEA" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick2004-git&layout=compact&theme=default)
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick2004-git&layout=compact&hide_border=true&title_color=667EEA&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🧊 3D Contribution Graph
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthickhari851@gmail.com)
-<!--
-**karthick2004-git/karthick2004-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karthick2004-git/karthick2004-git/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthick2004-git&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%"/>
+</p>
